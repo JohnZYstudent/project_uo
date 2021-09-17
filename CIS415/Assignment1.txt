@@ -1,0 +1,57 @@
+Name: John(Ziyuan) Zhou
+
+OSC 2.1:
+Users can let operating system do certain work for them thourgh the system calls.
+
+OSC 2.4:
+Providing users a convenient way to develop and execute program.
+
+OSC 2.6:
+a.File manipulation
+	Can do create,delete,copy,rename,etc, to manage the files and directories.
+b.Status information
+	The program will format and print the information which user requested like logging, debugging information, etc.
+	And the output will display through files, terminal, or window of the GUI.
+c.File modification
+	Able to edit the content of files which stored in the disk or other devices. There are some
+	commands avaliable to search the contents or do the transformation.
+d.Programing language support
+	Lots of common programming languages such as C/C++ are avaliable to implement on the operation
+	system. They usually be provided or you can download the package to make it executable.
+e.Program loading and execution
+	Once the program is assembled or compiled, the memory is needed for loading and executing.
+	The user-level program cannot do this job becasue it won't be trusted. A high-level languages
+	or machine language is required for this service.
+
+OSC 3.1:
+	The output will be 5. The child updates the value; but when control backs to the parent, the value back to 5.
+
+OSC 3.5:
+	Only the shared memory segments.
+
+OSC 4.4:
+	OS is aware of Kernel-level threads, but not aware of user-level threads.
+	Kernel-level thread requires the system call for switching, but user-level thread does not. So user-level threads
+	are faster than Kernel-level threads for switching.
+
+OSC4.6:
+	Thread need a small space to hold the registers,stack and program counter. And creating thread need fewer resource than
+	process.
+
+Q1:
+	Because the system can be esay to modify. Separating them can make system more flexible, because we only need to change
+	policy for some cases.
+
+Q2:
+	process 1 executing -> interrupt or system call -> save state into PCB -> reload state from PCB -> interrupt or system call
+	-> process 2 executing -> interrupt or system call -> save state into PCB -> reload state from PCB ->interrupt or system call
+	-> process 1 executing -> ...
+
+Q3:
+	Multiprogramming uses single CPU, but multiprocessing uses multiple CPUs; because of this, multiprocessing takes less time
+	to process the jobs.
+
+Q4: 
+	
+Q5:
+	 
