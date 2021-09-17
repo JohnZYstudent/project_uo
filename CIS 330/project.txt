@@ -1,0 +1,15 @@
+** Project name:
+
+** Project repository: ZJNH Project
+
+** Team members: John Zhou, James Jia, Yiming Ni, Bowen Hou
+
+** Description:	
+	Our group will mainly fcous on the 2D game design, specifically on the text-base(ASCII) game. 
+	In this project, we will design the game named ******. This game requies two players, either 
+	player versus player or player versus computer. Since  
+
+
+** Implementation approach: C++
+
+** Risk management:
