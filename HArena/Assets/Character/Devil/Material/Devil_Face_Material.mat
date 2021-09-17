@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Devil_Face_Material
+  m_Shader: {fileID: 4800000, guid: 33a31a155b0da6545b3afcd4b966afcc, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Devil_body_D:
+        m_Texture: {fileID: 2800000, guid: 834d1e583c8bb244cb4ff23ddade4971, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Devil_body_E:
+        m_Texture: {fileID: 2800000, guid: 885bf97c01f1f02418c887516b0d20de, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Devil_body_N:
+        m_Texture: {fileID: 2800000, guid: 882da5a9c323925499036ce8764a5d82, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Devil_body_layered:
+        m_Texture: {fileID: 2800000, guid: 47e4ae6a841acc54fbcba0ae1d21b0c0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - __dirty: 0
+    m_Colors:
+    - _Body_Emission_Color: {r: 0, g: 0, b: 0, a: 0}
+    - _Emission_Color: {r: 0.35172415, g: 3, b: 0, a: 1}

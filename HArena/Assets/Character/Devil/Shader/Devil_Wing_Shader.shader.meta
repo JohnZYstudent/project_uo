@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 25fb15bcf6284004ebcaf08be0fe43b1
+timeCreated: 1583759584
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Devil_wing_N: {fileID: 2800000, guid: ad42b4ace4046c24992119e663002d4e, type: 3}
+  - _Devil_wing_D: {fileID: 2800000, guid: da584f7d283e46346bc7b72c9991a35e, type: 3}
+  - _Devil_wing_layered: {fileID: 2800000, guid: 5c072416d19902142b5f0ae03835d7c3,
+      type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

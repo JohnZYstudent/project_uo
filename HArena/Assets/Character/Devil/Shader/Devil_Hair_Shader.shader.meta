@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b26ab8f34a88bb74a9b091c4a0a0dce0
+timeCreated: 1583759851
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Devil_hair_N: {fileID: 2800000, guid: 6cb259142f0bb7443b785fbf58b37e87, type: 3}
+  - _Devil_hair_D: {fileID: 2800000, guid: b3a62a7d58f53f049b4c175382187c2e, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

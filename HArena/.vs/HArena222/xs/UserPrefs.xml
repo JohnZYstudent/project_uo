@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{193506AB-4599-6000-B059-93FA17CABD3A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Quit.cs">
+    <Files>
+      <File FileName="Assets/Script/ThridPersonCharacterController.cs" Line="17" Column="26" />
+      <File FileName="Assets/Script/MiniMoster.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Quit.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HArena222" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="Quit.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="793ac422-ede6-4751-9aef-ab4b6576bbc2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
