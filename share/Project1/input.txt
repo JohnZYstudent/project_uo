@@ -1,0 +1,6 @@
+pwd ; mkdir test ; cd test
+cd .. ; cd test ; pwd
+cp ../input.txt del.txt ; pwd ; ls
+rm del.txt ; ls
+cd .. ; pwd
+ls
